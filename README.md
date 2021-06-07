@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lilpharaoh1
+- 👋 Hi, I’m Emran.
 - I'm an engineering studetn at Trinity College Dublin.
 - I do most of my programming in Python and C++.
 - I'm interested in Artificial Intelligence, Machine Learning, Computer Vision, etc.
