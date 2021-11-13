@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emran.
-- I'm an engineering studetn at Trinity College Dublin.
+- I'm an engineering student at Trinity College Dublin.
 - I do most of my programming in Python and C++.
 - I'm interested in Artificial Intelligence, Machine Learning, Computer Vision, etc.
 - I also dabble in game development ( just for fun )
